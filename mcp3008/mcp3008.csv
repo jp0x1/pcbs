@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C?","1","0.1uF","","","","Capacitor_SMD:C_0603_1608Metric","~"
+"J1","1","Conn_01x06_Pin","","","","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","~"
+"J2","1","Conn_02x06_Counter_Clockwise","","","","Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical","~"
+"R?","1","10k","","","","Resistor_SMD:R_0603_1608Metric","~"
+"U1","1","MCP3008","","","","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm","http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf"

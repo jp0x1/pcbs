@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,0.1uF,
+J1,PinHeader_1x06_P2.54mm_Vertical,1,Conn_01x06_Pin,
+J2,PinHeader_2x06_P2.54mm_Vertical,1,Conn_02x06_Counter_Clockwise,
+R1,0603,1,10k,
+U1,SOIC-16_3.9x9.9mm_P1.27mm,1,MCP3008,
